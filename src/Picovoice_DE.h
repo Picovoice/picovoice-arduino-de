@@ -9,8 +9,8 @@
     specific language governing permissions and limitations under the License.
 */
 
-#ifndef PICOVOICE_EN_H
-#define PICOVOICE_EN_H
+#ifndef PICOVOICE_DE_H
+#define PICOVOICE_DE_H
 
 #include <stdint.h>
 
@@ -35,4 +35,4 @@ const uint8_t *pv_get_uuid(void);
  */
 uint32_t pv_get_uuid_size(void);
 
-#endif // PICOVOICE_EN_H
+#endif // PICOVOICE_DE_H
